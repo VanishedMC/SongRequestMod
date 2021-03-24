@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SongRequest", "SongRequest\SongRequest.csproj", "{D116D1FC-9280-4C47-84AA-E946F6839ED3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D116D1FC-9280-4C47-84AA-E946F6839ED3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D116D1FC-9280-4C47-84AA-E946F6839ED3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D116D1FC-9280-4C47-84AA-E946F6839ED3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D116D1FC-9280-4C47-84AA-E946F6839ED3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {811F4977-A1D9-490B-9486-F5184434969B}
+	EndGlobalSection
+EndGlobal

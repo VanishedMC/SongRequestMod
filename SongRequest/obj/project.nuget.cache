@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "lVwJR5Z9m2Slkw4fNVDx4xB6f3f+1+ddkcBLpFsheGlDelTUPbNYM+gBxqHBEFChJCwxn1kqrV3N4T0We85AZg==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\Radboud\\Desktop\\BSMods\\SongRequest\\SongRequest\\SongRequest.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1101",
+      "level": "Error",
+      "message": "Unable to find package BeatSaberModdingTools.Tasks. No packages exist with this id in source(s): Microsoft Visual Studio Offline Packages",
+      "libraryId": "BeatSaberModdingTools.Tasks",
+      "targetGraphs": [
+        ".NETFramework,Version=v4.7.2",
+        ".NETFramework,Version=v4.7.2/win",
+        ".NETFramework,Version=v4.7.2/win-x64",
+        ".NETFramework,Version=v4.7.2/win-x86"
+      ]
+    }
+  ]
+}
